@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:32
+-keep class com.google.zxing.client.android.CaptureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.tns.NativeScriptActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.tns.NativeScriptApplication { <init>(...); }
+

@@ -1,0 +1,2 @@
+enableVerboseLogging();
+require("./");
