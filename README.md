@@ -1,2 +1,1 @@
-# barcodescanner
-NativeScript sample barcode scanner
+# nativescript-android-barcodeapp

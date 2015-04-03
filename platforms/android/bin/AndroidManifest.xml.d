@@ -1,2 +1,2 @@
-/Users/emil/Dev/xerox/BarcodeScanner/platforms/android/bin/AndroidManifest.xml : \
-/Users/emil/Dev/xerox/BarcodeScanner/platforms/android/AndroidManifest.xml \
+/Users/emil/Dev/nativescript-android-barcodeapp/platforms/android/bin/AndroidManifest.xml : \
+/Users/emil/Dev/nativescript-android-barcodeapp/platforms/android/AndroidManifest.xml \

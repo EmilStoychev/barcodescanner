@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BarcodeScanner</string>
-    <string name="title_activity_kimera">BarcodeScanner</string>
+    <string name="app_name">barcodeApp</string>
+    <string name="title_activity_kimera">barcodeApp</string>
 </resources>

@@ -1,9 +1,19 @@
-# view AndroidManifest.xml #generated:32
--keep class com.google.zxing.client.android.CaptureActivity { <init>(...); }
+# view AndroidManifest.xml #generated:39
+-keep class com.tns.ErrorReportActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:21
+# view AndroidManifest.xml #generated:28
 -keep class com.tns.NativeScriptActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:15
+# view AndroidManifest.xml #generated:22
 -keep class com.tns.NativeScriptApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.tns.com.google.zxing.client.android.CaptureActivity { <init>(...); }
+
+# view ldpi-v4/res/layout-ldpi-v4/capture.xml #generated:24
+# view res/layout/capture.xml #generated:24
+-keep class com.tns.com.google.zxing.client.android.ViewfinderView { <init>(...); }
+
+# view res/layout/search_book_contents_list_item.xml #generated:17
+-keep class com.tns.com.google.zxing.client.android.book.SearchBookContentsListItem { <init>(...); }
 
